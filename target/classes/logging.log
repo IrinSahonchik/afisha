@@ -1,0 +1,5 @@
+[ERROR] 2016-11-17 21:23:30.354 [main] Runner - Error
+[INFO ] 2016-11-17 21:23:30.358 [main] Runner - new error 1
+[INFO ] 2016-11-17 21:23:30.358 [main] Runner - new error 2
+[DEBUG] 2016-11-17 21:23:30.358 [main] Runner - new error 3
+[DEBUG] 2016-11-17 21:23:30.358 [main] Runner - new error 4
